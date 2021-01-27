@@ -1,6 +1,7 @@
 {
-  "name": "add2cart",
+  "name": "react_ts_charkaui_starter",
   "version": "0.1.0",
+  "author": "@moneebalalfi",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^1.0.0",
